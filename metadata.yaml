@@ -1,0 +1,29 @@
+_repo: Practical-Mechanics-for-Boys_22298
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 22298-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Zerbe, James Slough
+    alias: Zerbe, J. S.
+    birthdate: 1850
+    gutenberg_agent_id: '635'
+    url: http://www.gutenberg.org/2009/agents/635
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2007-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22298'
+  lccn: '14011147'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tools'
+- !lcsh 'Handicraft for boys'
+- !lcc 'TT'
+title: Practical Mechanics for Boys
+url: http://www.gutenberg.org/ebooks/22298
